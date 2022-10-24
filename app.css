@@ -43,6 +43,9 @@ header a{
     padding:8px 16px;
     font-weight: bolder;
 }
+.sign-in:hover{
+    cursor: pointer;
+}
 .application{
     vertical-align: middle;
     margin-left: 0;
